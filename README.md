@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello!👋🏻 My name is Andrei Galanov. I am from Russian Technological University (RTU MIREA). 🏫
+
+I'm intrested in web development and learning new for me programming languages. Now I'm styding C++ and Go.
+
+Currently I'm student and I'm trying to find and inspiration for creating projects. 
+
+Skills: jokes
